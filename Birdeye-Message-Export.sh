@@ -3,7 +3,7 @@
 
 ########################################################
 # Birdeye-Message-Export.sh
-# Alex Datsko - MME Consulting Inc.
+# Alex Datsko - .
 #   v0.1 1-8-25 - Initial POC
 #
 # Can only extract 100 messages at a time it looks like.
